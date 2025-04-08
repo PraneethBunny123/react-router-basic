@@ -13,7 +13,7 @@ export default function MainNav() {
                         <Link to='/products'>Products</Link>
                     </li>
                 </ul>
-            </nav>
+            </nav> 
         </header>
     )
 }
